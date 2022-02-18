@@ -1,0 +1,253 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(51, 51, 51, 1);
+  background-image:none;
+  position:relative;
+  left:0px;
+  width:1878px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u28 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u29_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1878px;
+  height:791px;
+  background:inherit;
+  background-color:rgba(255, 238, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u29 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:80px;
+  width:1878px;
+  height:791px;
+  display:flex;
+}
+#u29 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u29_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u30_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1878px;
+  height:83px;
+  background:inherit;
+  background-color:rgba(40, 40, 40, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u30 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1878px;
+  height:83px;
+  display:flex;
+}
+#u30 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u30_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u31_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1878px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(40, 40, 40, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u31 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:871px;
+  width:1878px;
+  height:32px;
+  display:flex;
+}
+#u31 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u31_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u32_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1018px;
+  height:72px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Segoe UI Semibold', 'Segoe UI Обычный', 'Segoe UI', sans-serif;
+  font-weight:600;
+  font-style:normal;
+  font-size:65px;
+  letter-spacing:10.7px;
+  color:#FFEEFF;
+}
+#u32 {
+  border-width:0px;
+  position:absolute;
+  left:18px;
+  top:-6px;
+  width:1018px;
+  height:72px;
+  display:flex;
+  font-family:'Segoe UI Semibold', 'Segoe UI Обычный', 'Segoe UI', sans-serif;
+  font-weight:600;
+  font-style:normal;
+  font-size:65px;
+  letter-spacing:10.7px;
+  color:#FFEEFF;
+}
+#u32 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u32_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u33_img {
+  border-width:0px;
+  position:absolute;
+  left:-2px;
+  top:-2px;
+  width:605px;
+  height:7px;
+}
+#u33 {
+  border-width:0px;
+  position:absolute;
+  left:-124px;
+  top:474px;
+  width:601px;
+  height:3px;
+  display:flex;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
+}
+#u33 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u33_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u34_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:374px;
+  height:70px;
+}
+#u34 {
+  border-width:0px;
+  position:absolute;
+  left:1485px;
+  top:6px;
+  width:374px;
+  height:70px;
+  display:flex;
+  font-family:'Raleway Medium', 'Raleway', sans-serif;
+  font-weight:500;
+  font-style:normal;
+  font-size:26px;
+}
+#u34 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u34_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}

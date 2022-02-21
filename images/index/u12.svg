@@ -1,43 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="svg2"
-   xml:space="preserve"
-   width="641.33331"
-   height="641.33331"
-   viewBox="0 0 641.33331 641.33331"
-   sodipodi:docname="vkontakte-seeklogo.com.eps"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview4" /><g
-     id="g10"
-     inkscape:groupmode="layer"
-     inkscape:label="ink_ext_XXXXXX"
-     transform="matrix(1.3333333,0,0,-1.3333333,0,641.33333)"><g
-       id="g12"
-       transform="scale(0.1)"><path
-         d="M 741.184,4810 H 4068.82 C 4478.15,4810 4810,4478.16 4810,4068.82 V 741.18 C 4810,331.852 4478.15,0 4068.82,0 H 741.184 C 331.844,0 0,331.852 0,741.18 V 4068.82 C 0,4478.16 331.844,4810 741.184,4810"
-         style="fill:#4d71a9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path14" /><path
-         d="m 2364.64,1442.85 h 196.76 c 0,0 59.42,6.55 89.8,39.24 27.92,30.05 27.03,86.43 27.03,86.43 0,0 -3.85,264 118.66,302.88 120.82,38.32 275.93,-255.15 440.32,-368 124.32,-85.38 218.79,-66.69 218.79,-66.69 l 439.6,6.14 c 0,0 229.96,14.19 120.91,195 -8.92,14.76 -63.52,133.74 -326.86,378.18 -275.67,255.85 -238.72,214.45 93.32,657.01 202.21,269.51 283.04,434.04 257.78,504.51 -24.06,67.13 -172.8,49.4 -172.8,49.4 l -494.96,-3.06 c 0,0 -36.72,4.99 -63.92,-11.28 -26.6,-15.92 -43.67,-53.1 -43.67,-53.1 0,0 -78.37,-208.54 -182.81,-385.93 -220.4,-374.24 -308.55,-394.05 -344.57,-370.78 -83.82,54.17 -62.87,217.56 -62.87,333.68 0,362.69 55.01,513.92 -107.13,553.06 -53.8,12.98 -93.43,21.57 -231.03,22.98 -176.62,1.79 -326.07,-0.55 -410.71,-42.01 -56.31,-27.58 -99.76,-89.01 -73.29,-92.55 32.73,-4.36 106.8,-19.99 146.07,-73.43 50.74,-69.03 48.96,-223.98 48.96,-223.98 0,0 29.15,-426.95 -68.06,-479.97 -66.71,-36.38 -158.24,37.88 -354.74,377.42 -100.66,173.92 -176.69,366.18 -176.69,366.18 0,0 -14.64,35.93 -40.79,55.16 -31.71,23.3 -76.03,30.68 -76.03,30.68 l -470.358,-3.07 c 0,0 -70.59,-1.97 -96.532,-32.68 -23.082,-27.33 -1.843,-83.79 -1.843,-83.79 0,0 368.213,-861.51 785.183,-1295.66 382.37,-398.09 816.48,-371.97 816.48,-371.97"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path16" /></g></g></svg>
+<?xml version="1.0" ?><svg style="enable-background:new 0 0 64 64;" version="1.1" viewBox="0 0 64 64" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style type="text/css">
+	.st0{fill:#4267B2;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#C2191E;}
+	.st4{fill:#1DA1F3;}
+	.st5{fill:#FEFE00;}
+	.st6{fill:#25D366;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+	.st7{fill:#CB2027;}
+	.st8{fill:#0077B5;}
+	.st9{fill:url(#SVGID_2_);}
+	.st10{fill:url(#SVGID_3_);}
+	.st11{fill:#FF004F;}
+	.st12{fill:#00F7EF;}
+	.st13{fill:#5181B8;}
+	.st14{fill:#395976;}
+	.st15{fill:#F58220;}
+	.st16{fill:#E6162D;}
+	.st17{fill:#FF9933;}
+</style><g id="guidlines"/><g id="FB"/><g id="ig"><radialGradient cx="6.5" cy="62.5" fx="3.1684" fy="60.7807" gradientTransform="matrix(0.9116 -0.411 0.3329 0.7384 -20.233 19.0203)" gradientUnits="userSpaceOnUse" id="SVGID_1_" r="93.512"><stop offset="0" style="stop-color:#F9ED32"/><stop offset="0.2555" style="stop-color:#F59F4F"/><stop offset="0.6535" style="stop-color:#EE2A7B"/><stop offset="0.6848" style="stop-color:#E32A81"/><stop offset="0.7394" style="stop-color:#C72A91"/><stop offset="0.8107" style="stop-color:#982AAB"/><stop offset="0.896" style="stop-color:#582ACE"/><stop offset="0.9922" style="stop-color:#072AFB"/><stop offset="1" style="stop-color:#002AFF"/></radialGradient><path class="st1" d="M50,62H14C7.4,62,2,56.6,2,50V14C2,7.4,7.4,2,14,2h36c6.6,0,12,5.4,12,12v36C62,56.6,56.6,62,50,62z"/><g><path class="st2" d="M40,53H24c-7.2,0-13-5.8-13-13V24c0-7.2,5.8-13,13-13h16c7.2,0,13,5.8,13,13v16C53,47.2,47.2,53,40,53z     M24,13c-6.1,0-11,4.9-11,11v16c0,6.1,4.9,11,11,11h16c6.1,0,11-4.9,11-11V24c0-6.1-4.9-11-11-11H24z"/></g><g><path class="st2" d="M32,43c-6.1,0-11-4.9-11-11s4.9-11,11-11s11,4.9,11,11S38.1,43,32,43z M32,23c-5,0-9,4-9,9s4,9,9,9s9-4,9-9    S37,23,32,23z"/></g><g><path class="st2" d="M44,23c-1.7,0-3-1.3-3-3s1.3-3,3-3s3,1.3,3,3S45.7,23,44,23z M44,19c-0.6,0-1,0.4-1,1s0.4,1,1,1s1-0.4,1-1    S44.6,19,44,19z"/></g></g><g id="yt"/><g id="twitter"/><g id="snapchat"/><g id="WA"/><g id="Pinterrest"/><g id="Layer_9"/><g id="Layer_10"/><g id="Layer_11"/><g id="Layer_12"/><g id="Layer_13"/><g id="Layer_14"/><g id="Layer_15"/><g id="Layer_16"/><g id="Layer_17"/></svg>
